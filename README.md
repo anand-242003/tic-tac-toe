@@ -1,6 +1,6 @@
 Rock-Paper-Scissors Showdown
 Author
-<br.
+<br>
 Anand Mishra
 <br>
 
