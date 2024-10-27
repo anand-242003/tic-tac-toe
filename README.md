@@ -1,2 +1,8 @@
-# tic-tac-toe
-This is my first GitHub repository, featuring a simple Rock-Paper-Scissors game where you can compete against the computer.
+Rock-Paper-Scissors Showdown
+Author
+<br.
+Anand Mishra
+<br>
+
+Welcome to the ultimate showdown of strategy and luck! This Rock-Paper-Scissors game lets you challenge the computer in a classic duel where only the cleverest prevail.
+
